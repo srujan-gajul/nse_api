@@ -1,1 +1,1 @@
-web: gunicorn Flaask:app
+web: gunicorn main:app
